@@ -1,4 +1,4 @@
 # libregen
 simple password generator
-sashimiv 2022
-
+# github.com/sashimiv/libregen
+copyright sashimiv 2022
