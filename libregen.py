@@ -6,7 +6,7 @@ length = input('password length?'+ "\n")
 number = int(number)
 for n in range(number):
     password =''
-    for i in range(length)
+    for i in range(length):
         password = random.choice(chars)
     print(password) 
     print("copyright 2022 sashimiv")
