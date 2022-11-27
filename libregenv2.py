@@ -7,3 +7,5 @@ print("  ")
 for i in range(length):
    password = random.choice(chars)
    print(password) 
+print("  ")
+print("chars:" + " " +chars )
