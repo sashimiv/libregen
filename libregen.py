@@ -1,6 +1,6 @@
 import random
 
-chars = '+-/*!&$#?=@<>[\]•^_abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'
+chars = '+-/*!&$#?=@<>[\]{^_a}bcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'
 number = input('number of passwords?'+ "\n")
 length = input('password length?'+ "\n")
 number = int(number)
